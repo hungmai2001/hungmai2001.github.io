@@ -72,7 +72,7 @@ th, td {
 	flex: 70%;
 	padding: 10px 20px;
 }
-@media(max-width: 800px)
+/* @media(max-width: 800px)
 {
 	*{
 		background-color: yellow;
@@ -83,4 +83,4 @@ th, td {
 	*{
 		background-color: green;
 	}
-}
+} */
